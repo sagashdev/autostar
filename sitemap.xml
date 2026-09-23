@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://autostar.kz/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://autostar.kz/"/>
+    <xhtml:link rel="alternate" hreflang="kk" href="https://autostar.kz/kz/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://autostar.kz/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://autostar.kz/"/>
+  </url>
+  <url>
+    <loc>https://autostar.kz/kz/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://autostar.kz/"/>
+    <xhtml:link rel="alternate" hreflang="kk" href="https://autostar.kz/kz/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://autostar.kz/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://autostar.kz/"/>
+  </url>
+  <url>
+    <loc>https://autostar.kz/en/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://autostar.kz/"/>
+    <xhtml:link rel="alternate" hreflang="kk" href="https://autostar.kz/kz/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://autostar.kz/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://autostar.kz/"/>
+  </url>
+</urlset>
